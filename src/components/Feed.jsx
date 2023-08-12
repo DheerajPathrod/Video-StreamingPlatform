@@ -21,7 +21,7 @@ const Feed = () => {
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} />
         
         <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", }}>
-          © 2023@youtube_clone
+          © @Super-TV 2023
         </Typography>
       </Box>
 
