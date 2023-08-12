@@ -2,6 +2,7 @@
 
 1. This is a Basically a YouTube Clone.
 2. This built using HTML, CSS, JavaScript, ReactJS and Material UI.
+3. The RapidAPI is used to fetch all videos from all the categories mentioned in the website.
 
 
 
